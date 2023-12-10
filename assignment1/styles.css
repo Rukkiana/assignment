@@ -1,0 +1,52 @@
+body{
+    background-color:  hsl(210, 46%, 95%);
+    width: 100vw;
+    height: 100vh;
+    font-size: 18px;
+    
+    
+
+
+}
+main{
+    display: flex;
+    background-color: white;
+    width:800px;
+    height:310px;
+    margin: 5rem 10rem;
+    
+    
+}
+
+.item{
+    padding:10,10;
+    width: 500px;
+    font-family: manrope;
+    padding-right:10px
+}
+ .structure{
+    display:flex ;
+ }
+ .circle-image{
+    width: 65px;
+    height: 65px;
+ border-radius: 50%;
+ 
+    
+ }
+ .period{
+    padding-top: 5px;
+    padding-left: 10px;
+ }
+  
+ 
+
+ 
+
+
+
+
+
+
+
+
